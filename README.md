@@ -4,3 +4,5 @@
 
 - 사용 언어: Python
 - 개발 환경: Visual Studio Code 
+
+- 용량 문제로 전체 파일을 업로드하지는 못하였음
